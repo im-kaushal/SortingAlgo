@@ -1,0 +1,166 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  nav {
+    background-color: #3b3a3a;
+    color: white;
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 30% 60%;
+        grid-template-columns: 30% 60%;
+    -webkit-column-gap: 10%;
+            column-gap: 10%;
+    padding: 0% 5%;
+  }
+  
+  nav .array-inputs {
+    align-content:right;
+    display:-ms-grid;
+    display: grid; 
+    -ms-grid-columns: 60% 40%;
+        grid-template-columns: 60% 40%;
+    place-content: right; 
+    padding: 5% 0%;
+  }
+  
+  nav .array-inputs #a_size {
+    padding: 5% 0%;
+  }
+  
+  nav .array-inputs #a_speed {
+    padding: 5% 0%;
+  }
+  
+  nav .array-inputs #a_generate {
+    background-color: transparent;
+    border: solid;
+    outline: darkgrey;
+    color: white;
+    border-radius: 3px;
+    padding: 0% 0% 0% 0%;
+    padding-left: 0%;
+  }
+  
+  nav .array-inputs #a_generate:hover {
+    cursor: pointer;
+  }
+  
+  nav .header_right{
+  align-content:left;
+  
+  border-radius: .75rem;
+  padding: 2.5em;
+  text-align: center;
+  text-decoration: none #D1D5DB solid;
+  text-decoration-thickness: auto;
+  
+}
+
+  nav .header_right .nav-heading {
+    display: inline-block;
+    font-size: xxx-large;
+    padding: 3% 0%;
+  }
+  
+  
+   /* {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: (16.66667%)[6];
+        grid-template-columns: repeat(6, 16.66667%);
+    place-content: center;
+    padding: 2% 0%;
+  } */
+  
+  nav .header_right .algos button {
+    background-color: transparent;
+    border: none;
+    color: white;
+    outline: none;
+    padding: 5% 0%;
+    font-size: x-large;
+  }
+  
+  nav .header_right .algos button:hover {
+    background-color: blue;
+    cursor: pointer;
+  }
+  
+  nav .header_right .algos .butt_locked {
+    background-color: transparent;
+    cursor: pointer;
+  }
+  
+  nav .header_right .algos .butt_locked:hover {
+    background-color: transparent;
+    cursor: pointer;
+  }
+  
+  nav .header_right .algos .butt_selected {
+    background-color: white;
+    color: green;
+  }
+  
+  nav .header_right .algos .butt_selected:hover {
+    background-color: white;
+    cursor: pointer;
+  }
+  
+  nav .header_right .algos .butt_unselected:hover {
+    background-color: blue;
+    cursor: pointer;
+  }
+  
+  section {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 20% 60% 20%;
+        grid-template-columns: 20% 60% 20%;
+  }
+  
+  section #Info_Cont1 {
+    padding: 20%;
+  }
+  
+  section #array_container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    height: 70vh;
+  }
+  
+  section #Info_Cont2 {
+    padding: 20%;
+  }
+  
+  .hide {
+    display: none;
+  }
+
+  .footer {
+
+    font-size: x-small;
+    font-weight: lighter;
+    text-transform: running;
+
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #3b3a3a;
+    color: white;
+    text-align: center;
+ }
+
+
+
+
+ 
+  
