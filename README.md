@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/70936174/187361449-499181d6-de80-467a-928d-a8c4ddd0756d.png)
 <br>
-Worked on this project while doing the GFG DSA course. <br>
+ <b>Worked on this project while doing the GFG DSA course.</b> <br>
  <b>Objective:</b> How sorting algorithms work in practice. <br>
  <b>Technologies:</b> HTML, CSS, BootStrap, JavaScript, for the front-end part and sorting algorithms for the logical part. <br>
  <b>Learning Outcomes:</b> Working of sorting algorithms. <br>
