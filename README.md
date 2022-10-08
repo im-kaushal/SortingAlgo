@@ -13,7 +13,4 @@
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 - https://www.crio.do/projects/javascript-sorting-visualiser/
 -----
-
-
-            
-<hr>Thank you!</hr>
+Thank you!
