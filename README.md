@@ -1,4 +1,4 @@
-# [SortingAlgo](https://im-kaushal.github.io/SortingAlgo/)
+# [Live](https://im-kaushal.github.io/SortingAlgo/)
 
 ![image](https://user-images.githubusercontent.com/70936174/187361449-499181d6-de80-467a-928d-a8c4ddd0756d.png)
 <br>
